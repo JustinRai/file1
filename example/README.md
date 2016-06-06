@@ -15,4 +15,4 @@ return var2;
 }
 ```
 :boom: :game_die: :cyclone:
-[Yandex] (https:www.yandex.ru)
+[Yandex] (https://www.yandex.ru)
