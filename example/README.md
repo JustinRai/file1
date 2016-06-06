@@ -14,4 +14,4 @@ if (var1 = 1){
 return var2;
 }
 ```
-:boom:
+:boom: :game_die: :cyclone:
